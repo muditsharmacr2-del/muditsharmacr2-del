@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/mudit-kumar-sharma-1a0645376) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
